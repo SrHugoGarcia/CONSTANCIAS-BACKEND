@@ -45,6 +45,7 @@ const scopes = [
               break;
     }
   }
+  //error
   //Desarrollo
   /*
     Aqui va ir el texto del desarrollo
